@@ -4,6 +4,7 @@
 DESCRIPTION~
 /R/tools2sIPM.R~
 /inst/example/build2sIPM.R~
+.Rbuildignore~
 
 # Session Data files
 .RData
