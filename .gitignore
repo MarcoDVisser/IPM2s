@@ -1,6 +1,9 @@
 # History files
 .Rhistory
 .Rapp.history
+DESCRIPTION~
+/R/tools2sIPM.R~
+/inst/example/build2sIPM.R~
 
 # Session Data files
 .RData

@@ -1,0 +1,16 @@
+Package: IPM2s
+Type: Package
+Title: Tools for building a 2 stage IPM
+Version: 0.1
+Date: 2017-01-18
+Author: Marco D. Visser
+Maintainer: Orphaned, Will not be maintained <marco.d.visser@gmail.com>
+Description: Code partly used in Parasite-host interactions in tropical
+    trees: lianas differentially impact population growth
+    rates among host tree species.
+License: GPL-2
+URL: https://github.com/MarcoDVisser/2sIPM
+BugReports: https://github.com/MarcoDVisser/2sIPM/issues
+Depends:
+    MASS
+RoxygenNote: 5.0.1
