@@ -13,7 +13,7 @@ or [tar ball](https://github.com/MarcoDVisser/aprof/tarball/master). To install 
 ```r
 ## devtools is required
 require(devtools)
-install_github("MarcoDVisser/aprof")
+install_github("MarcoDVisser/IPM2s")
 ```
 ### Dependencies
 The package depends on MASS and lme4 
